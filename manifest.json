@@ -1,0 +1,17 @@
+{
+  "short_name": "Apex Learn AI",
+  "name": "Apex Learn AI — AI Learning & Study Companion",
+  "description": "Macro AI Roadmaps, Micro Adaptive Schedules, Spaced Repetition & Focus Pomodoro Engine",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192 any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
